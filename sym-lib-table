@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "InputModule")(type "KiCad")(uri "${KIPRJMOD}/InputModule.kicad_sym")(options "")(descr ""))
+  (lib (name "SymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/SymbolLibrary.kicad_sym")(options "")(descr ""))
+)
