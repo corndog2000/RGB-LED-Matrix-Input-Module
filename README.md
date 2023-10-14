@@ -9,5 +9,4 @@
 
 ![Video Demo](https://www.youtube.com/watch?v=vBwoF8WDbUY)
 
-[<img src="https://img.youtube.com/vi/vBwoF8WDbUY/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/vBwoF8WDbUY>)
+[![Watch the video](https://img.youtube.com/vi/vBwoF8WDbUY/hqdefault.jpg)](https://www.youtube.com/embed/vBwoF8WDbUY)
