@@ -2,6 +2,9 @@
 
 # Please check this project's license. It uses a Attribution-NonCommercial-ShareAlike 4.0 International license.
 
+![Rev 2 3D render front](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module/blob/main/Rev2Top.png)
+![Rev 2 3D render back](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module/blob/main/Rev2Back.png)
+
 ![Close up of the LED Matrix PCB 3D render](https://github.com/corndog2000/RGB-LED-Matrix-Input-Module/blob/main/MicrocontrollerInputModule.png)
 
 ![Framework Forum Post](https://community.frame.work/t/show-rgb-led-matrix-input-module/36968/2)
