@@ -4,4 +4,5 @@
   (lib (name "FootprintLibrary")(type "KiCad")(uri "${KIPRJMOD}/FootprintLibrary.pretty")(options "")(descr ""))
   (lib (name "74AHC125BQ_115")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/74AHC125BQ_115")(options "")(descr ""))
   (lib (name "FH34SRJ-12S-0.5SH_50_")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/FH34SRJ-12S-0.5SH_50_")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/A6H_2101/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

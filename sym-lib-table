@@ -4,4 +4,5 @@
   (lib (name "SymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/SymbolLibrary.kicad_sym")(options "")(descr ""))
   (lib (name "74AHC125BQ_115")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/74AHC125BQ_115/74AHC125BQ_115.kicad_sym")(options "")(descr ""))
   (lib (name "FH34SRJ-12S-0.5SH_50_")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/FH34SRJ-12S-0.5SH_50_/FH34SRJ-12S-0.5SH_50_.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-10-21_03-08-25")(type "KiCad")(uri "${KIPRJMOD}/Footprint Downloads/A6H_2101/KiCADv6/2023-10-21_03-08-25.kicad_sym")(options "")(descr ""))
 )
