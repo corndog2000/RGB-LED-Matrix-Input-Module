@@ -4904,7 +4904,7 @@
   (symbol (lib_id "2023-10-21_03-08-25:A6H-2101") (at 25.4 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d8d2f087-6410-4521-b5e1-675c48cb705d)
-    (property "Reference" "SW3" (at 45.72 154.94 0)
+    (property "Reference" "SW1" (at 45.72 154.94 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "A6H-2101" (at 45.72 157.48 0)
@@ -4923,7 +4923,7 @@
     (instances
       (project "MicrocontrollerInputModule"
         (path "/e1225fe3-1add-4bf0-8592-1d94311392e6"
-          (reference "SW3") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )

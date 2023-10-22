@@ -13,6 +13,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e77f8796-c47e-45e7-8805-67a96fa15837)
   )
+  (fp_circle (center 0.8 0.8) (end 0.825 0.8)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp fc6853d5-0649-41b6-9ed7-78de32c976f0))
   (pad "1" smd rect (at 0.45 0.45) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 533ea703-9804-4c4f-b464-aff8555c27bf))
   (pad "2" smd rect (at 0.45 -0.45) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
