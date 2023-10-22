@@ -1,0 +1,24 @@
+Drill report for RGB-Panel.kicad_pcb
+Created on 10/22/2023 17:40:11
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RGB-Panel-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (758 holes)
+
+    Total plated holes count 758
+
+
+Drill file 'RGB-Panel-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.500mm  0.0197"  (216 holes)
+    T2  3.000mm  0.1181"  (4 holes)
+
+    Total unplated holes count 220
