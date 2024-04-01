@@ -1,0 +1,36 @@
+{
+    "layout": {
+        "hspace": "4mm",
+        "vspace": "2mm",
+        "cols": "2",
+        "vbonecut": "False",
+        "renameref": "Board_{n}-{orig}"
+    },
+    "cuts": {
+        "type": "mousebites"
+    },
+    "framing": {
+        "type": "frame"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm",
+        "size": "1.152mm",
+        "paste": "True"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "3mm",
+        "voffset": "16.5mm",
+        "opening": "3mm"
+    },
+    "text": {
+        "type": "simple",
+        "hoffset": "-44.5mm",
+        "voffset": "29mm",
+        "layer": "0",
+        "orientation": "270deg",
+        "text": "JLCJLCJLCJLC"
+    }
+}
