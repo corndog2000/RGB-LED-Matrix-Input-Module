@@ -1,0 +1,25 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,LCSC Part #,Description,Availability,Check_prices,MANUFACTURER,MF,MP,Price,Purchase-URL,SnapEDA_Link,Manufacturer
+", , ",3,,,,,,tht,,,,,,,,,,,
+"C1, C2",2,15pF,C_0402_1005Metric,,,,smt,C76950,,,,,,,,,,
+"C10, C11, C12, C13, C14, C3, C4, C5, C7, C9",10,100nF,C_0402_1005Metric,,,,smt,C1525,,,,,,,,,,
+"C15, C16, C17, C18",4,10uF,C_0603_1608Metric,,,,smt,C19702,,,,,,,,,,
+"C6, C8",2,1uF,C_0402_1005Metric,,,,smt,C29266,,,,,,,,,,
+"D1, D2, D3, D4, D5",5,D_TVS,D_0402_1005Metric,,,,smt,C468904,,,,,,,,,,
+F1,1,Polyfuse 600mA,R_1206_3216Metric,,,,smt,C883122,,,,,,,,,,
+F2,1,Polyfuse 200mA,R_1206_3216Metric,,,,smt,C910826,,,,,,,,,,
+J2,1,FH34SRJ-12S-0.5SH_50_,HRS_FH34SRJ-12S-0.5SH_50_,None,,,smt,C424659,"
+12 Position FFC, FPC Connector Contacts, Top and Bottom 0.020 (0.50mm) Surface Mount, Right Angle
+",In Stock,https://www.snapeda.com/parts/FH34SRJ-12S-0.5SH(50)/Hirose+Electric+Co+Ltd/view-part/?ref=eda,HRS,Hirose Electric Co Ltd,FH34SRJ-12S-0.5SH(50),None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3226400&manufacturer=Hirose Electric Co Ltd&part_name=FH34SRJ-12S-0.5SH(50)&search_term=fh34srj-12s-0.5sh,https://www.snapeda.com/parts/FH34SRJ-12S-0.5SH(50)/Hirose+Electric+Co+Ltd/view-part/?ref=snap,
+"N1, N10, N100, N101, N102, N103, N104, N105, N106, N107, N108, N109, N11, N110, N111, N112, N113, N114, N115, N116, N117, N118, N119, N12, N120, N121, N122, N123, N124, N125, N126, N127, N128, N129, N13, N130, N131, N132, N133, N134, N135, N136, N137, N138, N139, N14, N140, N141, N142, N143, N144, N145, N146, N147, N148, N149, N15, N150, N151, N152, N153, N154, N155, N156, N157, N158, N159, N16, N160, N161, N162, N163, N164, N165, N166, N167, N168, N169, N17, N170, N171, N172, N173, N174, N175, N176, N177, N178, N179, N18, N180, N181, N182, N183, N184, N185, N186, N187, N188, N189, N19, N190, N191, N192, N193, N194, N195, N196, N197, N198, N199, N2, N20, N200, N201, N202, N203, N204, N205, N206, N207, N208, N209, N21, N210, N211, N212, N213, N214, N215, N216, N217, N218, N219, N22, N220, N221, N222, N223, N224, N225, N226, N227, N228, N229, N23, N230, N231, N232, N233, N234, N235, N236, N237, N238, N239, N24, N240, N241, N242, N243, N244, N245, N246, N247, N248, N249, N25, N250, N251, N252, N253, N254, N255, N256, N257, N258, N259, N26, N260, N261, N262, N263, N264, N265, N266, N267, N268, N269, N27, N270, N271, N272, N273, N274, N275, N276, N277, N278, N279, N28, N280, N281, N282, N283, N284, N285, N286, N287, N288, N29, N3, N30, N31, N32, N33, N34, N35, N36, N37, N38, N39, N4, N40, N41, N42, N43, N44, N45, N46, N47, N48, N49, N5, N50, N51, N52, N53, N54, N55, N56, N57, N58, N59, N6, N60, N61, N62, N63, N64, N65, N66, N67, N68, N69, N7, N70, N71, N72, N73, N74, N75, N76, N77, N78, N79, N8, N80, N81, N82, N83, N84, N85, N86, N87, N88, N89, N9, N90, N91, N92, N93, N94, N95, N96, N97, N98, N99",288,SK6805-EC14,SK6805-EC14,,,,smt,C2909055,,,,,,,,,,
+"R1, R3",2,1k,R_0402_1005Metric,,,,smt,C106235,,,,,,,,,,
+"R10, R11, R12, R13, R14, R15, R16, R9",8,470,R_0402_1005Metric,,,,smt,C25117,,,,,,,,,,
+"R2, R24, R4, R8",4,10k,R_0402_1005Metric,,,,smt,C60490,,,,,,,,,,
+"R5, R6",2,27,R_0402_1005Metric,,,,smt,C138021,,,,,,,,,,
+R7,1,180k,R_0402_1005Metric,,,,smt,C138046,,,,,,,,,,
+SW1,1,A6H-2101,SW_A6H-2101_OMR,,,,smt,C224990,,,,,,,,,,
+U1,1,W25Q16JVUXIQ ,SON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,,,,smt,C2843335,,,,,,,,,,
+U2,1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,,,,smt,C2040,,,,,,,,,,
+"U3, U4",2,74AHC125BQ_115,QFN50P300X250X100-15N,DHVQFN14-14 Nexperia USA Inc.,,,smt,C554218,"
+Buffer, Non-Inverting 4 Element 1 Bit per Element 3-State Output 14-DHVQFN (2.5x3)
+",In Stock,"https://www.snapeda.com/parts/74AHC125BQ,115/Nexperia/view-part/?ref=eda",,Nexperia,"74AHC125BQ,115",None,"https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5062851&manufacturer=Nexperia&part_name=74AHC125BQ,115&search_term=None","https://www.snapeda.com/parts/74AHC125BQ,115/Nexperia/view-part/?ref=snap",Nexperia
+Y1,1,12.000MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,,,,smt,C7294551,,,,,,,,,,
